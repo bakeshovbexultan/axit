@@ -1,5 +1,4 @@
-# AXIT
-Practice site. Using css, responsive web design. Layout: Axit template
+# Верстка лендинга из бесплатного psd макетa Mogo
 
 ## Ссылка на сайт:
 
